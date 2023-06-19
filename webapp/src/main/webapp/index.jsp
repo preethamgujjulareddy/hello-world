@@ -1,3 +1,23 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<html>
+
+<head>
+    <title>Student Registration Form</title>
+</head>
+
+<body>
+
+    <form action="student-response.jsp" method="post">
+
+        First name: <input type="text" name="firstName" />
+
+        <br/><br/> Last name: <input type="text" name="lastName" />
+
+        <br/><br/>
+
+        <input type="submit" value="Submit" />
+
+    </form>
+
+</body>
+
+</html>
